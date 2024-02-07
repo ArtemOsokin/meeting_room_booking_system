@@ -1,0 +1,9 @@
+django==5.0.2
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+drf_spectacular==0.27.1
+python_docx==1.1.0
+pytest_django==4.8.0
+Faker==23.0.0
+pytest-mock==3.12.0
+pytest-lazy-fixture==0.6.3
